@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppKiller</string>
+    <string name="accessibility_service_description">AppKillerAccService</string>
+</resources>
